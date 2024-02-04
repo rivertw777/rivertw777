@@ -30,7 +30,8 @@
   - [Backend](https://github.com/rivertw777/A1BnB-Backend)
   - [Frontend](https://github.com/rivertw777/A1BnB-Frontend)
 ### Team
-- A1BnB Project - Backend / Frontend
+- A1BnB Project - [Backend / Frontend](https://github.com/rivertw777/a1bnbSub)
+- Coffee in Seoul - [Web](https://github.com/rivertw777/Coffee-in-Seoul)
 
 ## 🏃‍♀️ Experience
 ### 2022
