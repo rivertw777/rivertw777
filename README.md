@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Input%20text&section=header&reversal=false
+[https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Input%20text&section=header&reversal=false](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Input%20text&section=header&reversal=false)
 
 Here are some ideas to get you started:
 
