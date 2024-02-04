@@ -21,7 +21,6 @@
 - Devlog : https://velog.io/@nickygod
 
 - Recent Post
-<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://velog.io/@bi-sz)
 
 
