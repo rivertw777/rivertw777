@@ -16,7 +16,7 @@
 </div>
 
 ## 🧑‍💻 About me
-- Dongguk Univ., Seoul, Korea (Computer Information & Communication Engineering)
+- Dongguk Univ, Seoul, Korea (Computer Information & Communication Engineering)
 - Email : rivertw@naver.com
 - Develog : https://velog.io/@nickygod
   
