@@ -19,9 +19,10 @@
 - Dongguk Univ, Seoul, Korea (Computer Information & Communication Engineering)
 - Email : rivertw@naver.com
 - Devlog : https://velog.io/@nickygod
-  
+
+- Recent Post
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://velog.io/@bi-sz)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+
 
 ## 🛠️ Teck Stacks
 
