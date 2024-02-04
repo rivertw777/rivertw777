@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**rivertw777/rivertw777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Input%20text&section=header&reversal=false
 
 Here are some ideas to get you started:
 
