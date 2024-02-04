@@ -4,7 +4,7 @@
 
 <!--      -->
   
-<h2> Wellocome To My Gihub </h2> 
+<h2> Wellcome To My Github </h2> 
   
 <!--  <p align="center" dir="auto">
   <a href="https://github.com/Nahee-Park">
@@ -28,7 +28,7 @@
 - Email : rivertw@naver.com
 - Develog : https://velog.io/@nickygod
   
-<!-- ## 🛠 Tech Stack 🛠 
+
 ### 📍  Programming languages
 
 ### 📍 Frontend
@@ -41,8 +41,6 @@
 ### 📍 Tools
 
 ## ⛓ Projects
-
-
 
 ## 🏃‍♀️ Experience
 
