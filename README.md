@@ -21,7 +21,7 @@
 - Devlog : https://velog.io/@nickygod
 
 - Recent Posting<br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rivertw777)](https://velog.io/@nickygod)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nickygod)](https://velog.io/@nickygod)
 
 
 ## 🛠️ Teck Stacks
