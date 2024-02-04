@@ -20,7 +20,7 @@
 - Email : rivertw@naver.com
 - Devlog : https://velog.io/@nickygod
 
-- Recent Posting<br>
+- Recent Posting<br><br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nickygod)](https://velog.io/@nickygod)
 
 
@@ -36,8 +36,7 @@
 
 ### Team
 - A1BnB Project - [Backend / Frontend](https://github.com/rivertw777/a1bnbSub)
-- Coffee in Seoul - [Web](https://github.com/rivertw777/Coffee-in-Seoul)
-
+- 
 ## 🏃‍♀️ Experience
 ### 2022
 - 2022.07 ~ 2022.08 : 데이터청년캠퍼스 데이터사이언스 기반 지능소프트웨어 과정 수료
