@@ -32,7 +32,7 @@
   
 ### DevOps
 - AWS EC2, S3
-- MYSQL
+- MySQL
 - Docker
 - Jenkins
 
