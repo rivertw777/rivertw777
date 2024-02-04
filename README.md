@@ -7,3 +7,5 @@ username=rivertw777&include_all_commits=true&show_icons=true&theme=cobalt)]
 [![Nicky's GitHub stats](https://github-readme-stats.vercel.app/api?
 username=rivertw777&include_all_commits=true&show_icons=true&theme=cobalt)]
 (https://github.com/rivertw777/github-readme-stats)
+
+![Nicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivertw777&show_icons=true&theme=radical)
