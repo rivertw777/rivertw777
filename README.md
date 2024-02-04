@@ -15,17 +15,12 @@
   
 </div>
 
-## 👩🏻‍💻 About me
+## 🧑‍💻 About me
 - Dongguk Univ., Seoul, Korea (Computer Information & Communication Engineering)
 - Email : rivertw@naver.com
 - Develog : https://velog.io/@nickygod
   
-
-## 📍 Programming languages
-
-## 📍 Frontend
-
-## 📍 Backend 
+## 🛠️ Teck Stacks
 
 ## ⛓ Projects
 
