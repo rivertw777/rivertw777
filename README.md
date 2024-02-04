@@ -24,11 +24,12 @@
 
 ## ⛓ Projects
 ### Solo
-- SNS Project
-  - [Backend](https://github.com/rivertw777/SNS-Backend)
-- A1BnB Project(Rebuilding)
+- A1BnB Project (Rebuilding)
   - [Backend](https://github.com/rivertw777/A1BnB-Backend)
   - [Frontend](https://github.com/rivertw777/A1BnB-Frontend)
+- SNS Project
+  - [Backend](https://github.com/rivertw777/SNS-Backend)
+
 ### Team
 - A1BnB Project - [Backend / Frontend](https://github.com/rivertw777/a1bnbSub)
 - Coffee in Seoul - [Web](https://github.com/rivertw777/Coffee-in-Seoul)
