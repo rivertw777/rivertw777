@@ -25,6 +25,16 @@
 
 
 ## 🛠️ Teck Stacks
+### Backend
+- Java
+- Spring Boot
+- IntelliJ
+  
+### DevOps
+- AWS EC2, S3
+- MYSQL
+- Docker
+- Jenkins
 
 ## ⛓ Projects
 ### Solo
