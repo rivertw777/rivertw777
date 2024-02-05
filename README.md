@@ -31,7 +31,7 @@
 - IntelliJ
   
 ### DevOps
-- AWS EC2, S3
+- AWS EC2, S3, RDS
 - MySQL
 - Docker
 - Jenkins
