@@ -29,6 +29,9 @@
 - Java
 - Spring Boot
 - IntelliJ
+
+### Frontend
+- React
   
 ### DevOps
 - AWS EC2, S3, RDS
