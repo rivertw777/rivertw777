@@ -32,10 +32,12 @@
 
 ### Frontend
 - React
+
+### DB
+- MySQL
   
 ### DevOps
-- AWS EC2, S3, RDS
-- MySQL
+- AWS EC2, S3, RDS, ElastiCache
 - Docker
 - Jenkins
 
