@@ -26,12 +26,10 @@
 
 ## 🛠️ Teck Stacks
 ### Backend
-- Java
-- Spring Boot
-- IntelliJ
+- Java / Spring Boot / IntelliJ
 
 ### Frontend
-- React
+- JavaScript / React / Visual Studio Code
 
 ### DB
 - MySQL
