@@ -33,6 +33,9 @@
 
 ### DB
 - MySQL
+
+### Middleware
+- Nginx
   
 ### DevOps
 - AWS EC2, S3, RDS, ElastiCache
