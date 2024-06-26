@@ -33,6 +33,7 @@
 
 ### DB
 - MySQL
+- Redis
 
 ### Middleware
 - Nginx
