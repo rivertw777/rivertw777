@@ -35,7 +35,7 @@
 - MySQL
 - Redis
 
-### Middleware
+### Web Server
 - Nginx
   
 ### DevOps
