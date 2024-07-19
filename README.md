@@ -43,13 +43,6 @@
 - Docker
 - Jenkins
 
-## ⛓ Projects
-### Solo
-- A1BnB (Renewal) - [Backend](https://github.com/rivertw777/A1BnB-Backend)
-
-### Team
-- A1BnB - [Backend / Frontend](https://github.com/rivertw777/a1bnbSub)
-
 ## 🏃‍♀️ Experience
 ### 2024
 - 2024.05 ~ 2024.11 : 2024 관광데이터 활용 공모전 참여
