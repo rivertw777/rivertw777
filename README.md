@@ -46,7 +46,6 @@
 ## ⛓ Projects
 ### Solo
 - A1BnB (Renewal) - [Backend](https://github.com/rivertw777/A1BnB-Backend)
-- SNS Project - [Backend](https://github.com/rivertw777/SNS-Backend)
 
 ### Team
 - A1BnB - [Backend / Frontend](https://github.com/rivertw777/a1bnbSub)
