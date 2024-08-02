@@ -26,14 +26,14 @@
 
 ## 🛠️ Teck Stacks
 ### Backend
-- Java / Spring Boot / IntelliJ
-
-### Frontend
-- JavaScript / React / Visual Studio Code
+- Java / Spring Boot
 
 ### DB
 - MySQL
 - Redis
+
+### Frontend
+- JavaScript / React 
 
 ### Web Server
 - Nginx
@@ -45,7 +45,7 @@
 
 ## 🏃‍♀️ Experience
 ### 2024
-- 2024.08 ~ 2024.10 : KDT 심화 AI 활용 백엔드 아키텍처 심화 과정 참여
+- 2024.08 ~ 2024.10 : KDT 심화 백엔드 아키텍처 심화 과정 참여
 - 2024.05 ~ 2024.11 : 2024 관광데이터 활용 공모전 참여
   
 ### 2023
