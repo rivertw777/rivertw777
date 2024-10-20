@@ -29,7 +29,7 @@
 - Java / Spring Boot
 
 ### DB
-- PostgreSQL
+- MySQL
 - Redis
 
 ### Frontend
@@ -40,7 +40,7 @@
 - Nginx
   
 ### DevOps
-- AWS EC2, S3, RDS, ElastiCache
+- AWS EC2, RDS, ElastiCache, S3, Lambda
 - Docker
 - Jenkins
 
