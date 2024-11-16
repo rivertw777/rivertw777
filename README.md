@@ -29,7 +29,6 @@
 - Java / Spring Boot
 
 ### DB
-- MySQL
 - Redis
 
 ### Frontend
@@ -37,7 +36,6 @@
 
 ### Middleware
 - Kafka
-- Nginx
   
 ### DevOps
 - Docker
