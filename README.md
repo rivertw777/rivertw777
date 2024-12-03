@@ -41,5 +41,5 @@
 ### DevOps
 - Docker
 - Jenkins
-- AWS EC2, RDS, ElastiCache, S3, Lambda
+- AWS
 
