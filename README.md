@@ -29,6 +29,7 @@
 - Java / Spring Boot
 
 ### DB
+- MySQL
 - Redis
 
 ### Frontend
