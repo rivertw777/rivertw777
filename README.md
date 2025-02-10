@@ -40,6 +40,6 @@
   
 ### DevOps
 - Docker
-- Jenkins
+- Jenkins / Github Actions
 - AWS
 
