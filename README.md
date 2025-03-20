@@ -23,23 +23,30 @@
 ### Recent Posting
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nickygod)](https://velog.io/@nickygod)
 
+## 🛠️ Tech Stacks
+<br>
 
-## 🛠️ Teck Stacks
-### Backend
-- Java / Spring Boot
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,react" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis,kafka" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+  <br>
+</p>
 
-### DB
-- MySQL
-- Redis
-
-### Frontend
-- JavaScript / React 
-
-### Middleware
-- Kafka
-  
-### DevOps
-- Docker
-- Jenkins / Github Actions
-- AWS
 
