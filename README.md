@@ -50,6 +50,12 @@
     <th>Read At</th>
   </tr>
   <tr>
+    <td>2</td>
+    <td>Real MySQL 8.0 - 1권</td></td>
+    <td>백은빈, 이성욱</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>1</td>
     <td>가상 면접 사례로 배우는 대규모 시스템 설계 기초</td>
     <td>Alex Xu</td>
