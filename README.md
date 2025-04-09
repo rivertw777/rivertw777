@@ -47,7 +47,7 @@
     <td>2</td>
     <td>Real MySQL 8.0 - 1권</td></td>
     <td>백은빈, 이성욱</td>
-    <td></td>
+    <td>ing</td>
   </tr>
   <tr>
     <td>1</td>
