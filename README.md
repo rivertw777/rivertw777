@@ -41,6 +41,12 @@
     <th>Read At</th>
   </tr>
   <tr>
+    <td>3</td>
+    <td>AWS 교과서</td></td>
+    <td>김원일, 서종호, 김석필</td>
+    <td>2025-08-08</td>
+  </tr>
+  <tr>
     <td>2</td>
     <td>Real MySQL 8.0 - 1권</td></td>
     <td>백은빈, 이성욱</td>
