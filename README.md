@@ -41,6 +41,12 @@
     <th>Read At</th>
   </tr>
   <tr>
+    <td>4</td>
+    <td>만들면서 배우는 클린 아키텍처</td></td>
+    <td>톰 홈버그</td></td>
+    <td>2025-10-10</td>
+  </tr>
+  <tr>
     <td>3</td>
     <td>AWS 교과서</td></td>
     <td>김원일, 서종호, 김석필</td>
